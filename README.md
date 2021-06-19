@@ -10,7 +10,8 @@ Tech/Framework used
 - OpenCV
 - Machine Learning/Deep Learning
 
-! [](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Heatmap.png)
+![](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Heatmap.png)   
+![](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Comparison.png)
 
 
 # [Project 2: 🧠 Parkinson's Disease Detection](https://github.com/Ritikajain18/Parkinson-s-Disease-Detection)
