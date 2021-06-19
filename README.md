@@ -10,7 +10,7 @@ Tech/Framework used
 - OpenCV
 - Machine Learning/Deep Learning
 
-![](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Heatmap.png)   
+![](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Capture.PNG)   
 ![](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Comparison.png)
 
 
