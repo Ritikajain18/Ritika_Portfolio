@@ -22,5 +22,5 @@ Tech/Framework Used
 - Feature extraction
 - Machine learning/Deep Learning
 
-![](/images/Parkinsons%20evaluation.png)
+![](/images/Parkinsons.png)
 ![](/images/PCA.png)
