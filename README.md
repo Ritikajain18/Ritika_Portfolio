@@ -10,6 +10,9 @@ Tech/Framework used
 - OpenCV
 - Machine Learning/Deep Learning
 
+! [](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Heatmap.png)
+
+
 # [Project 2: 🧠 Parkinson's Disease Detection](https://github.com/Ritikajain18/Parkinson-s-Disease-Detection)
 The objective of this project is to detect the presence of Parkinson’s disease in a human using various Machine Learning Algorithms at an early stage to halt the further progression of this deadly disease.
 
