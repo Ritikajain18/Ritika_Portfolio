@@ -21,3 +21,6 @@ Tech/Framework Used
 - Python
 - Feature extraction
 - Machine learning/Deep Learning
+
+![](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/Parkinsons%20evaluation.png)
+![](https://github.com/Ritikajain18/Ritika_Portfolio/blob/main/images/PCA.png)
