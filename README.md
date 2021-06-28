@@ -25,4 +25,4 @@ The objective of this project is to detect the presence of Parkinson’s disease
 - Feature extraction
 - Machine learning/Deep Learning
 
-![](/images/Parkinsons.png) ![](/images/PCA.png)
+![](/images/result.png) 
