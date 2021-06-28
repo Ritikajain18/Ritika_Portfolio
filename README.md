@@ -10,7 +10,7 @@ Tech/Framework used
 - OpenCV
 - Machine Learning/Deep Learning
 
-![](/images/Capture.PNG)   ![](/images/Comparison.png)
+![](/images/Capture.PNG)   [](/images/Comparison.png)
 
 
 # [Project 2: 🧠 Parkinson's Disease Detection](https://github.com/Ritikajain18/Parkinson-s-Disease-Detection)
@@ -21,4 +21,4 @@ Tech/Framework Used
 - Feature extraction
 - Machine learning/Deep Learning
 
-![](/images/Parkinsons.png) ![](/images/PCA.png)
+![](/images/Parkinsons.png) [](/images/PCA.png)
