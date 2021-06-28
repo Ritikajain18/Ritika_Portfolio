@@ -27,3 +27,6 @@ The objective of this project is to detect the presence of Parkinson’s disease
 
 # Results
 ![](/images/result2.PNG) 
+
+
+# [Project 3:] 🎥 Movie Data Analytics](https://github.com/Ritikajain18/Data-Analysis-with-Movie-Data)
