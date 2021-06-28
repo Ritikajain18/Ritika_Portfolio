@@ -10,8 +10,11 @@ The objective of this project is to establish a system which takes an input imag
 - OpenCV
 - Machine Learning/Deep Learning
 
-![Input and Output](/images/I-O.PNG)
-![Visualization](/images/results.PNG)  
+# Input & Output
+![](/images/I-O.PNG)
+
+# Visualization
+![](/images/results.PNG)  
 
 
 # [Project 2: 🧠 Parkinson's Disease Detection](https://github.com/Ritikajain18/Parkinson-s-Disease-Detection)
