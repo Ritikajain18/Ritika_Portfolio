@@ -1,4 +1,4 @@
-# Ritika_Portfolio
+# Ritika Jain 
 Data Science Portfolio
 
 
